@@ -21,10 +21,18 @@ jobs:
     steps:
 
       - uses: actions/checkout@v2
-      - name: Deploy
+      - name: Deploy1
         uses: exuanbo/actions-deploy-gist@v1.0.3
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: 079e0418ed01c721c80cf3b18a268c17
           gist_file_name: new.md
           file_path: ./new.md
+
+      - name: Deploy2
+        uses: exuanbo/actions-deploy-gist@v1.0.3
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: 079e0418ed01c721c80cf3b18a268c17
+          gist_file_name: new2.md
+          file_path: ./new2.md
