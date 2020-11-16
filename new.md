@@ -1,7 +1,7 @@
 # New
 
 test  
-Some **Bold** normal *italic normal.
+Some **Bold** normal *italic* normal.
 some
 <details>
 <summary>
