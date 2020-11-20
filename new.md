@@ -1,13 +1,8 @@
-# New
+# One
 
-test  
-Some **Bold** normal *italic* normal.
-some
 <details>
 <summary>
-Adding one line.
+summary
 </summary>
-A veeeeeeeeerrrrrrrrrrrrryyyyyyyyyyyyyy loOOOOOOOOOOOOOOOOOOOooooooooooooonnnnnnnnnnnnnnnnngggggggggggggggggggg line.
+details
 </details>
-
-<math><mtext>some</mtext></math>
