@@ -26,7 +26,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: 079e0418ed01c721c80cf3b18a268c17
-          gist_file_name: new.md
+          gist_file_name: one.md
           file_path: ./new.md
 
       - name: Deploy2
