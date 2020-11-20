@@ -34,5 +34,5 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: 079e0418ed01c721c80cf3b18a268c17
-          gist_file_name: new2.md
+          gist_file_name: two.md
           file_path: ./new2.md
