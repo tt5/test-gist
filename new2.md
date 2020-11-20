@@ -1,11 +1,8 @@
 # new2
 
-test. New file.
-
 <details>
 <summary>
-How to beat the boss...spoiler alert !
+details
 </summary>
-<p> Just aim to the red spots near his eyes</p>
-<p>Keep shooting at these spots until the eyes open, then hit quickly both eyes with your laser beam.</p>
+summary
 </details>
