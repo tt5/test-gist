@@ -2,7 +2,9 @@
 
 <details>
 <summary>
-summary
+animated chess moves
 </summary>
-details
+ex.:  
+`changemove1(db, "e7", "e5")`  
+(from js console in firefox)
 </details>
