@@ -5,8 +5,6 @@
 animated chess moves
 </summary>
 ex.:  
-```js
-changemove1(db, "e7", "e5")
-```
+<div class="code">changemove1(db, "e7", "e5")</div>
 (from js console in firefox)
 </details>
